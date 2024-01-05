@@ -35,7 +35,7 @@
 #else
                        &ortho_transform;
 #endif
-    };,
+    };
 
     macros {
       ZMK_MACRO(thumbs_up,
